@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://note.aga-uhake.space/sitemap.xml
+Sitemap: https://note.aga-uhake.space/sitemap-pages.xml
